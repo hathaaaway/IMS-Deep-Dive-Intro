@@ -2,8 +2,8 @@
 layout: post
 title: "Who Are We? 我们是谁?"
 author: "Hathaway"
-categories: facts
-tags: [sample]
+categories: resources
+tags: [documentation,sample]
 image: cuba-2.png
 ---
 
