@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+title: "Market Share 市场份额数据解读"
+author: "Hathaway Zhang"
+categories: documentation
+tags: [documentation,sample]
 image: arctic-1.jpg
 ---
 
