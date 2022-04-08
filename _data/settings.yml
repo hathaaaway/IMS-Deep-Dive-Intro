@@ -7,11 +7,11 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Power BI 主页',      url: 'facts'}
-- {name: '大中华区 Com-Ex 应用', url: 'resources'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Power BI 主页',        link: 'https://app.powerbi.com/home'}
+- {name: '大中华区 Com-Ex 应用',  link: 'https://app.powerbi.com/Redirect?action=OpenApp&appId=ce37b19a-4f71-47f2-ab32-1a725e3f3505&ctid=4d3f6608-ec8c-4b1f-9484-274a4b699efb'}
+- {name: 'Documentation',        url: 'documentation'}
+- {name: 'About',                url: 'about'}
+- {name: 'Contact',              url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
