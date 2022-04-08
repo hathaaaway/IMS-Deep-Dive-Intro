@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: Power BI 主页
 category: facts
 permalink: /facts
 ---
