@@ -7,9 +7,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Power BI 主页',      url: 'facts'}
+- {name: '大中华区 Com-Ex 应用', url: 'resources'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
