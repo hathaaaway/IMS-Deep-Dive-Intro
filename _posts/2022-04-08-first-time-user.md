@@ -121,7 +121,7 @@ IMS分析报告通过PowerBI在线报告平台发布. PowerBI的使用权限包�
 
 ### Market Share 市场份额
 
-市场份额数据由第三方咨询公司 IPSOS 提供，详细介绍可以参考[市场份额]({{ site.github.url }}{% post_url market-share %}) 页面. IMS 分析报告中融入了市场份额数据，以外部数据作为支撑，帮助经理及团队客观地分析和评价销售表现.
+市场份额数据由第三方咨询公司 IPSOS 提供，详细介绍可以参考[市场份额]({{ site.github.url }}{% post_url 2022-04-08-market-share %}) 页面. IMS 分析报告中融入了市场份额数据，以外部数据作为支撑，帮助经理及团队客观地分析和评价销售表现.
 
 ![Market Share](assets/img/market.png)
 
