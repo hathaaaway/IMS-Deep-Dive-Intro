@@ -11,15 +11,15 @@ IMS (In Market Sales) 为产品直接到医院的销量，可以更直接的反�
 
 ## Getting Started
 
-[初次访问]({{ site.github.url }}{% post_url 2022-04-08-first-time-user %}): 初次访问报告? 别担心，跟随这份指南完全掌握如何登陆 Power BI 平台，以及如何找到 IMS 分析报告.
+[初次访问]({{ site.github.url }}{% post_url 2022-04-09-first-time-user %}): 初次访问报告? 别担心，跟随这份指南完全掌握如何登陆 Power BI 平台，以及如何找到 IMS 分析报告.
 
 ## Quick Access
 
-[快速访问]({{ site.github.url }}{% post_url 2022-04-08-quick-access %})
+[快速访问]({{ site.github.url }}{% post_url 2022-04-10-quick-access %})
 
 ## Understand Marketing Share
 
-[市场份额]({{ site.github.url }}{% post_url 2022-04-08-market-share %})
+[市场份额]({{ site.github.url }}{% post_url 2022-04-11-market-share %})
 
 ## Questions?
 
