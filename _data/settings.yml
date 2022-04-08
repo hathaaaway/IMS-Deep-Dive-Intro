@@ -15,11 +15,13 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'linkedin', link:   'https://www.linkedin.com/company/molnlyckehealthcare/'}
 - {icon: 'twitter', link:    'https://twitter.com/molnlyckehc'}
-- {icon: 'facebook', link:   'https://www.facebook.com/molnlyckehc'}
-- {icon: 'instagram', link:  'https://instagram.com/molnlyckehc'}
+- {icon: 'facebook', link:   'https://www.facebook.com/Molnlycke-Health-Care-205525837960/'}
+- {icon: 'instagram', link:  'https://www.instagram.com/molnlyckehealthcare/'}
+- {icon: 'youtube', link:    'https://www.youtube.com/c/Molnlyckehc'}
 - {icon: 'envelope', link:   'mailto:hathaway.zhang@molnlycke.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
+
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
