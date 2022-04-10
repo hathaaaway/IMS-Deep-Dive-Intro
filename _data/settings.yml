@@ -4,12 +4,12 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
-- {name: 'Power BI 主页',        link: 'https://app.powerbi.com/home'}
-- {name: '大中华区 Com-Ex 应用',  link: 'https://app.powerbi.com/Redirect?action=OpenApp&appId=ce37b19a-4f71-47f2-ab32-1a725e3f3505&ctid=4d3f6608-ec8c-4b1f-9484-274a4b699efb'}
-- {name: '公司门户',              link: 'https://molnlycke.omniacloud.net/start'}
+# - {name: 'Power BI 主页',        url: 'https://app.powerbi.com/home'}
+# - {name: '大中华区 Com-Ex 应用',  url: 'https://app.powerbi.com/Redirect?action=OpenApp&appId=ce37b19a-4f71-47f2-ab32-1a725e3f3505&ctid=4d3f6608-ec8c-4b1f-9484-274a4b699efb'}
+# - {name: '公司门户',              url: 'https://molnlycke.omniacloud.net/start'}
 - {name: 'About',                url: 'about'}
 - {name: 'Contact',              url: 'contact'}
 

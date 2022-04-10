@@ -4,4 +4,12 @@ title: About
 permalink: /about
 ---
 
-IMS (In Market Sales) 为产品直接到医院的销量，可以更直接的反应产品在市场的情况，也可以反馈市场策略的执行结果. 同时，IMS是考核销售行为结果的数据，同时也是奖金核酸的唯一标准.为了更好的帮助销售代表和经理掌握IMS实际数据以及达成情况，Com-Ex部门推出了 [IMS销售经理分析报告](https://app.powerbi.com/Redirect?action=OpenReport&appId=ce37b19a-4f71-47f2-ab32-1a725e3f3505&reportObjectId=24608c01-62bc-466f-bc6d-3af32ea833ed&ctid=4d3f6608-ec8c-4b1f-9484-274a4b699efb) 来帮助销售核对数据，同时深挖数据背后的信息.
+我们是谁? Who Are We?
+
+商业优化团队将是你未来工作坚实的后盾以及密切合作的支持部门。我们的工作包括了CRM记录与考核、区域/指标设定管理、销售达成分析、销售培训等。从日常销售拜访到医院经销商实际销量达成，我们与你的工作环环相扣，同时也积极地提供全方位的支持。
+
+| 类型        | 适用工具          | 联系人                              | 访问途径                       |
+|-------------|-------------------|-------------------------------------|--------------------------------|
+| CRM考核     | Veeva             | [Becca](mailto:becca.xiao@molnlycke.com)  肖雯君  19910030712     | Veeva                          |
+| 销售数据    | IMS分析报告       | [Hathaway](mailto:hathaway.zhang@molnlycke.com)  张心怡  13311097300 | 销售经理IMS分析报告            |
+| 培训        | 线上/线下员工培训 | [Peter](mailto:peter.liu@molnlycke.com) 刘鹏  13381022618        | 新员工培训  产品知识手册       |
